@@ -5,12 +5,12 @@
     font-size: x-large;
     padding-left: 5px;
      height: 50px;
-    background-color: #b30000;
+    background-color: #176400;
     overflow: hidden;
   }
   
   /* Style the links inside the navigation bar */
-  .topnav :active {
+  .topnav a {
     float: left;
     color: #ffffff;
     text-align: center;
@@ -22,24 +22,24 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #c71e1e;
+    background-color: #8e00e0;
     color: rgb(255, 255, 255);
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #c71e1e;
+    background-color: #8e00e0;
     color: white;
   }
 
   .topnav a.margin{
-    margin: left 50px; ;
+    margin: left 50px;
   }
 
 
   body {
 
-    background-color: rgb(11, 219, 192);
+    background-color: rgb(219, 105, 11);
 
 }
 
@@ -52,6 +52,7 @@ h2 {
 }
 .project1title{
   text-align: center;
+  font-size:xx-large ;
 }
 .mycodetitle{
   margin-right: 10px;
@@ -73,18 +74,36 @@ h6{
   }
 
   .project1{
-    background-color: rgb(0, 0, 161);
+    background-color: rgb(0, 178, 223);
   }
 
   .placeholdertext{
-   float: right;
-    margin-right: 100px;
+    float: left;
+    margin-left: 100px;
     margin-top: 100px;
-    float: right;
+    float: left;
   }
 
   .devendureq{
+    position: absolute;
+    left: 850px;
+    align-content: center;
     float: left;
-    margin-left: 20px;
+    padding-left: 10px;
     margin-top: 200px;
   }
+
+  .gobacktext{
+    text-align: center;
+  }
+
+  .bluesmile{
+    align-content: center;
+  }
+
+  .protfoliobyhenry{
+    font-size: x-large;
+    font-family: cursive;
+  }
+
+ 
