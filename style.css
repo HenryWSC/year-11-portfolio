@@ -78,13 +78,21 @@ h6{
   }
 
   .placeholdertext{
+<<<<<<< HEAD
     float: left;
+=======
+   float: left;
+>>>>>>> 7baeeac06497280724329b8813e2a0a7559062d1
     margin-left: 100px;
     margin-top: 100px;
     float: left;
   }
 
   .devendureq{
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 7baeeac06497280724329b8813e2a0a7559062d1
     position: absolute;
     left: 850px;
     align-content: center;
